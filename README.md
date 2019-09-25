@@ -1,7 +1,9 @@
 # go-licenses-toolkie
 open source licenses toolkie for go.
-
+### Function:
+- 1. Collect licenses and notices file from go pkg directory.
 Create project in 9/6,2019
+
 
 ### Example:
 ```bash
