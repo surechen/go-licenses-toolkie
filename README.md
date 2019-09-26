@@ -5,6 +5,7 @@ open source licenses toolkie for go.
 
 
 ### Example:
+For project servicecomb-mesher(https://github.com/apache/servicecomb-mesher) 
 ```bash
 cd /usr/local/src/go/src/github.com/surechen/servicecomb-mesher
 go build
